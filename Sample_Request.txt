@@ -1,0 +1,22 @@
+{"updateParty": {
+    "policy": [
+      {
+        "policy_num": "1243454",
+        "prem_Amount": "1035.00",
+        "LOB": "PC",
+        "AdminSystem": "PC SOR"
+      },
+      {
+        "policy_num": "1333454",
+        "premAmount": "955.00",
+        "LOB": "Life",
+        "AdminSystem": "Life SOR"      }
+    ],
+    "Party": {
+      "Name": "D John Smith",
+      "DOB": "10/09/1979",
+      "Phone": "942-415-5845",
+      "Address": "202 Marian Drive Franklin, NJ 07751"
+    }
+  }
+}
